@@ -1,11 +1,21 @@
 img {
-	height: 100px;
-	width: 300px;
+	height: 300px;
+	width: 600px;
 }
 
 p {
-	color: red;
+	color: dimgray;
 }
 body {
-	background-color: aqua;
+	background-color: ghostwhite;
+}
+footer {
+	background-color: lightpink;
+}
+/*Horizontal Nav Bar*/
+ul{
+	list-style-type: none;
+}
+li {
+	display: block;
 }
